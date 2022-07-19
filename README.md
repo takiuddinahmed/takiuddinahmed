@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=takiuddinahmed&color=blueviolet&style=flat-square)
 
-I am a Software Developer especially in Back End Development with industry experience building web applications. I specialize in Node.js (Express, NestJS) with Go and have professional experience working with Typescript, Javascript, IoT, DevOps workflow, ASP.NET. I also have experience working with React, ElectronJs.
+I am a student as well as a Software Developer especially in Back End Development with industry experience building web applications. I specialize in Node.js (Express, NestJS) with Go and have professional experience working with Typescript, Javascript, IoT, DevOps workflow, ASP.NET. I also have experience working with React, ElectronJs.
 
 🌱 I'm currently working as a Software Developer:
 
