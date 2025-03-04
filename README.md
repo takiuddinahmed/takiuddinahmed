@@ -7,7 +7,7 @@ I Software Developer especially in Back End Development with industry experience
 
 🌱 I'm currently working as a Software Developer at [Cognitus](https://cognitus.com):
 
-Checkout my personal website [takiuddin.com](https://takiuddin.com)
+Checkout my personal website [takiuddin.me](https://takiuddin.me)
 
 <!-- :rocket: I'm using these tools: -->
 
